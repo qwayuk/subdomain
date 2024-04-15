@@ -6,7 +6,7 @@ addSubDomain({
     email: '1btuk@1658.eu.org>',
   },
   record: {
-    NS: ['achiel.ns.cloudflare.com', 'carlane.ns.cloudflare.com'],
+    NS: ['ns1.gcorelabs.net', 'ns2.gcdn.services'],
   },
   proxy: false
 })
