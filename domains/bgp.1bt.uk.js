@@ -1,7 +1,7 @@
 addSubDomain({
   description: 'bgp speed test development',
   domain: '1bt.uk',
-  subdomain: '*.bgp',
+  subdomain: 'bgp',
   owner: {
     email: '1btuk@1658.eu.org>',
   },
